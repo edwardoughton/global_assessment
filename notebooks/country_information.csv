@@ -1,0 +1,6 @@
+,country,iso3,regional_level,income_group,continent
+0,US,USA,2,HIC,North America
+1,UK,GBR,2,HIC,Europe
+2,France,FRA,2,HIC,Europe
+3,Germany,DEU,2,HIC,Europe
+4,Rwanda,RWA,1,LIC,Africa
