@@ -1,251 +1,251 @@
-iso3,iso2,country,continent,gid_region,lowest,Exclude,Population,income_group,flood_region
-ATA,AQ,Antarctica,Antarctica,2,2,1,0,-,Antarctica
-ATF,TF,French Southern Territories (the),Antarctica,1,1,1,0,-,Antarctica
-BVT,BV,Bouvet Island,Antarctica,2,2,1,0,-,Antarctica
-HMD,HM,Heard Island and McDonald Islands,Antarctica,1,1,1,0,-,Antarctica
-SGS,GS,South Georgia and the South Sandwich Islands,Antarctica,1,1,1,0,-,Antarctica
-CCK,CC,Cocos (Keeling) Islands (the),Asia,1,1,1,0,-,Asia
-CXR,CX,Christmas Island,Asia,1,1,1,0,-,Asia
-IOT,IO,British Indian Ocean Territory (the),Asia,1,2,1,0,-,Asia
-BRA,BR,Brazil,South America,1,2,0,213993441,UMC,Brazil
-MEX,MX,Mexico,North America,1,2,0,130262220,UMC,Central America & Caribbean
-AIA,AI,Anguilla,North America,0,0,1,0,-,Central America & Caribbean
-ATG,AG,Antigua and Barbuda,North America,1,1,1,98728,HIC,Central America & Caribbean
-BES,BQ,"Bonaire, Sint Eustatius and Saba",North America,1,1,1,0,-,Central America & Caribbean
-BHS,BS,Bahamas (the),North America,1,1,0,396914,HIC,Central America & Caribbean
-BLM,BL,Saint Barthélemy,North America,1,1,1,0,-,Central America & Caribbean
-BLZ,BZ,Belize,North America,1,1,0,404915,UMC,Central America & Caribbean
-BMU,BM,Bermuda,North America,1,1,0,63867,HIC,Central America & Caribbean
-BRB,BB,Barbados,North America,1,1,0,287708,HIC,Central America & Caribbean
-CRI,CR,Costa Rica,North America,1,2,0,5139053,UMC,Central America & Caribbean
-CUB,CW,Cuba,North America,1,2,0,11317498,UMC,Central America & Caribbean
-CUW,CY,Curaçao,North America,0,0,1,152369,HIC,Central America & Caribbean
-CYM,KY,Cayman Islands (the),North America,1,1,0,66498,HIC,Central America & Caribbean
-DMA,DM,Dominica,North America,1,1,0,72172,UMC,Central America & Caribbean
-DOM,DO,Dominican Republic (the),North America,1,2,0,10953714,UMC,Central America & Caribbean
-GLP,GP,Guadeloupe,North America,1,1,1,0,-,Central America & Caribbean
-GRD,GD,Grenada,North America,1,1,0,113015,UMC,Central America & Caribbean
-GTM,GT,Guatemala,North America,1,2,0,17109746,UMC,Central America & Caribbean
-HND,HN,Honduras,North America,1,2,0,10062994,LMC,Central America & Caribbean
-HTI,HT,Haiti,North America,1,2,0,11541683,LIC,Central America & Caribbean
-JAM,JM,Jamaica,North America,1,1,0,2973462,UMC,Central America & Caribbean
-KNA,KN,Saint Kitts and Nevis,North America,1,1,0,53546,HIC,Central America & Caribbean
-LCA,LC,Saint Lucia,North America,1,1,0,184401,UMC,Central America & Caribbean
-MAF,MF,Saint Martin (French part),North America,1,1,1,39239,HIC,Central America & Caribbean
-MSR,MS,Montserrat,North America,1,1,1,0,-,Central America & Caribbean
-MTQ,MQ,Martinique,North America,1,1,1,0,-,Central America & Caribbean
-NIC,NI,Nicaragua,North America,1,2,0,6702379,LMC,Central America & Caribbean
-PAN,PA,Panama,North America,1,2,0,4381583,HIC,Central America & Caribbean
-PRI,PR,Puerto Rico,North America,1,1,0,3263584,HIC,Central America & Caribbean
-SLV,SV,El Salvador,North America,1,2,0,6518500,LMC,Central America & Caribbean
-SPM,PM,Saint Pierre and Miquelon,North America,1,1,1,0,-,Central America & Caribbean
-SXM,SX,Sint Maarten (Dutch part),North America,1,1,1,42846,HIC,Central America & Caribbean
-TCA,TC,Turks and Caicos Islands (the),North America,1,1,0,39226,HIC,Central America & Caribbean
-TTO,TT,Trinidad and Tobago,North America,1,1,0,1403374,HIC,Central America & Caribbean
-VCT,VC,Saint Vincent and the Grenadines,North America,1,1,0,111269,UMC,Central America & Caribbean
-VGB,VG,Virgin Islands (British),North America,1,1,0,30423,HIC,Central America & Caribbean
-VIR,VI,Virgin Islands (U.S.),North America,1,1,0,105870,HIC,Central America & Caribbean
-CHN,CN,China,Asia,2,2,0,1412360000,UMC,China
-HKG,HK,Hong Kong,Asia,1,1,0,7413100,HIC,China
-MAC,MO,Macao,Asia,1,1,0,658391,HIC,China
-TWN,TW,Taiwan (Province of China),Asia,1,2,0,0,-,China
-MNG,MN,Mongolia,Asia,1,2,0,3329282,LMC,China
-JPN,JP,Japan,Asia,1,2,0,125681593,HIC,Japan & Korea
-KOR,KR,Korea (the Republic of),Asia,1,2,0,51744876,HIC,Japan & Korea
-PRK,KP,Korea (the Democratic People's Republic of),Asia,1,2,1,25887045,LIC,Japan & Korea
-DZA,DZ,Algeria,Africa,2,2,0,44616626,LMC,Middle East & North Africa
-EGY,EG,Egypt,Africa,1,2,0,104258327,LMC,Middle East & North Africa
-ESH,EH,Western Sahara,Africa,1,1,1,0,-,Middle East & North Africa
-LBY,LY,Libya,Africa,1,1,0,6958538,UMC,Middle East & North Africa
-TUN,TN,Tunisia,Africa,1,2,0,11935764,LMC,Middle East & North Africa
-ARE,AE,United Arab Emirates (the),Asia,1,2,0,9991083,HIC,Middle East & North Africa
-BHR,BH,Bahrain,Asia,1,1,0,1748295,HIC,Middle East & North Africa
-IRQ,IQ,Iraq,Asia,1,2,0,41179351,UMC,Middle East & North Africa
-ISR,IL,Israel,Asia,1,1,0,9364000,HIC,Middle East & North Africa
-JOR,JO,Jordan,Asia,1,2,0,10269022,UMC,Middle East & North Africa
-KWT,KW,Kuwait,Asia,1,1,0,4328553,HIC,Middle East & North Africa
-LBN,LB,Lebanon,Asia,1,2,0,6769151,UMC,Middle East & North Africa
-OMN,OM,Oman,Asia,1,2,0,5223376,HIC,Middle East & North Africa
-PSE,PS,"Palestine, State of",Asia,1,1,0,4922749,LMC,Middle East & North Africa
-QAT,QA,Qatar,Asia,1,1,0,2930524,HIC,Middle East & North Africa
-SAU,SA,Saudi Arabia,Asia,1,1,0,35340680,HIC,Middle East & North Africa
-SYR,SY,Syrian Arab Republic,Asia,1,2,0,18275704,LIC,Middle East & North Africa
-TUR,TR,Turkey,Europe,1,2,0,85042736,UMC,Middle East & North Africa
-YEM,YE,Yemen,Asia,2,2,0,30490639,LIC,Middle East & North Africa
-MAR,MA,Morocco,Africa,1,2,0,37344787,LMC,Middle East & North Africa
-CAN,CA,Canada,North America,2,2,0,38246108,HIC,North America
-GRL,GL,Greenland,North America,1,1,0,56653,HIC,North America
-USA,US,United States of America (the),North America,2,2,0,331893745,HIC,North America
-ASM,AS,American Samoa,Oceania,1,1,0,55103,UMC,Oceania
-AUS,AU,Australia,Oceania,2,2,0,25739256,HIC,Oceania
-COK,CK,Cook Islands (the),Oceania,0,0,1,0,-,Oceania
-FJI,FJ,Fiji,Oceania,1,1,0,902899,UMC,Oceania
-FSM,FM,Micronesia (Federated States of),Oceania,1,1,0,116255,LMC,Oceania
-GUM,GU,Guam,Oceania,1,1,0,170184,HIC,Oceania
-KIR,KI,Kiribati,Oceania,0,0,1,121388,LMC,Oceania
-MHL,MH,Marshall Islands (the),Oceania,1,1,1,59618,UMC,Oceania
-MNP,MP,Northern Mariana Islands (the),Oceania,1,1,1,57910,HIC,Oceania
-NCL,NC,New Caledonia,Oceania,1,2,0,272620,HIC,Oceania
-NFK,NF,Norfolk Island,Oceania,1,1,1,0,-,Oceania
-NIU,NU,Niue,Oceania,0,0,1,0,-,Oceania
-NRU,NR,Nauru,Oceania,1,1,1,10873,HIC,Oceania
-NZL,NZ,New Zealand,Oceania,1,2,0,5122600,HIC,Oceania
-PCN,PN,Pitcairn,Oceania,1,1,1,0,-,Oceania
-PLW,PW,Palau,Oceania,1,1,0,18174,HIC,Oceania
-PNG,PG,Papua New Guinea,Oceania,1,2,0,9119005,LMC,Oceania
-PYF,PF,French Polynesia,Oceania,1,1,0,282534,HIC,Oceania
-SLB,SB,Solomon Islands,Oceania,1,1,0,703995,LMC,Oceania
-TKL,TK,Tokelau,Oceania,1,1,1,0,-,Oceania
-TON,TO,Tonga,Oceania,1,1,0,106759,UMC,Oceania
-TUV,TV,Tuvalu,Oceania,1,1,0,11925,UMC,Oceania
-UMI,UM,United States Minor Outlying Islands (the),Oceania,1,1,1,0,-,Oceania
-VUT,VU,Vanuatu,Oceania,1,1,0,314464,LMC,Oceania
-WLF,WF,Wallis and Futuna,Oceania,1,1,1,0,-,Oceania
-WSM,WS,Samoa,Oceania,1,1,0,200144,UMC,Oceania
-ARM,AM,Armenia,Asia,1,1,0,2968128,UMC,Rest of FSU
-AZE,AZ,Azerbaijan,Asia,1,1,0,10145212,UMC,Rest of FSU
-GEO,GE,Georgia,Asia,1,2,0,3708610,UMC,Rest of FSU
-KAZ,KZ,Kazakhstan,Asia,1,2,0,19002586,UMC,Rest of FSU
-KGZ,KG,Kyrgyzstan,Asia,1,2,0,6694200,LMC,Rest of FSU
-TJK,TJ,Tajikistan,Asia,1,2,1,9749625,LIC,Rest of FSU
-TKM,TM,Turkmenistan,Asia,1,1,0,6117933,UMC,Rest of FSU
-UZB,UZ,Uzbekistan,Asia,1,2,0,34915100,LMC,Rest of FSU
-BLR,BY,Belarus,Europe,2,2,0,9340314,UMC,Rest of FSU
-UKR,UA,Ukraine,Europe,1,2,0,43814581,LMC,Rest of FSU
-RUS,RU,Russian Federation (the),Asia,1,2,0,143446060,UMC,Russia
-ABW,AW,Aruba,North America,0,0,1,107195,HIC,South America
-ARG,AR,Argentina,South America,2,2,0,45808747,UMC,South America
-BOL,BO,Bolivia (Plurinational State of),South America,2,2,0,11832936,LMC,South America
-CHL,CL,Chile,South America,1,2,0,19212362,HIC,South America
-COL,CO,Colombia,South America,1,2,0,51265841,UMC,South America
-ECU,EC,Ecuador,South America,1,2,0,17888474,UMC,South America
-FLK,FK,Falkland Islands (the) [Malvinas],South America,0,0,1,0,-,South America
-GUF,GF,French Guiana,South America,1,2,1,0,-,South America
-GUY,GY,Guyana,South America,1,2,0,790329,UMC,South America
-PER,PE,Peru,South America,1,2,0,33359416,UMC,South America
-PRY,PY,Paraguay,South America,1,2,0,7219641,UMC,South America
-SUR,SR,Suriname,South America,1,2,0,591798,UMC,South America
-URY,UY,Uruguay,South America,1,2,0,3485152,HIC,South America
-VEN,VE,Venezuela (Bolivarian Republic of),South America,1,2,0,28704947,UMC,South America
-LKA,LK,Sri Lanka,Asia,1,2,0,22156000,LMC,South Asia
-MDV,MV,Maldives,Asia,0,0,1,543620,UMC,South Asia
-AFG,AF,Afghanistan,Asia,2,2,0,39835428,LIC,South Asia
-BGD,BD,Bangladesh,Asia,2,2,0,166303494,LMC,South Asia
-BTN,BT,Bhutan,Asia,2,2,0,779900,LMC,South Asia
-IND,IN,India,Asia,2,2,0,1393409033,LMC,South Asia
-IRN,IR,Iran (Islamic Republic of),Asia,1,2,0,85028760,UMC,South Asia
-NPL,NP,Nepal,Asia,1,2,0,29674920,LMC,South Asia
-PAK,PK,Pakistan,Asia,1,2,0,225199929,LMC,South Asia
-BRN,BN,Brunei Darussalam,Asia,1,2,0,441532,HIC,Southeast Asia
-IDN,ID,Indonesia,Asia,1,2,0,276361788,UMC,Southeast Asia
-KHM,KH,Cambodia,Asia,1,2,0,16946446,LMC,Southeast Asia
-LAO,LA,Lao People's Democratic Republic (the),Asia,1,2,0,7379358,LMC,Southeast Asia
-MYS,MY,Malaysia,Asia,1,2,0,32776195,UMC,Southeast Asia
-PHL,PH,Philippines (the),Asia,1,2,0,111046910,LMC,Southeast Asia
-SGP,SG,Singapore,Asia,1,1,0,5453566,HIC,Southeast Asia
-TLS,TL,Timor-Leste,Asia,1,2,1,1343875,LMC,Southeast Asia
-VNM,VN,Viet Nam,Asia,1,2,0,98168829,LMC,Southeast Asia
-MMR,MM,Myanmar,Asia,1,2,0,54806014,LMC,Southeast Asia
-THA,TH,Thailand,Asia,1,2,0,69950844,UMC,Southeast Asia
-AGO,AO,Angola,Africa,2,2,0,33933611,LMC,Sub-Saharan Africa
-BDI,BI,Burundi,Africa,1,2,0,12255429,LIC,Sub-Saharan Africa
-BEN,BJ,Benin,Africa,1,1,0,12451031,LMC,Sub-Saharan Africa
-BFA,BF,Burkina Faso,Africa,1,2,0,21497097,LIC,Sub-Saharan Africa
-BWA,BW,Botswana,Africa,2,2,0,2397240,UMC,Sub-Saharan Africa
-CAF,CF,Central African Republic (the),Africa,1,2,0,4919987,LIC,Sub-Saharan Africa
-CIV,HR,Côte d'Ivoire,Africa,1,2,0,27053629,LMC,Sub-Saharan Africa
-CMR,CM,Cameroon,Africa,1,2,0,27224262,LMC,Sub-Saharan Africa
-COD,CD,Congo (the Democratic Republic of the),Africa,1,2,0,92377986,LIC,Sub-Saharan Africa
-COG,CG,Congo (the),Africa,1,2,0,5657017,LMC,Sub-Saharan Africa
-COM,KM,Comoros (the),Africa,0,0,1,888456,LMC,Sub-Saharan Africa
-CPV,CV,Cabo Verde,Africa,1,1,0,561901,LMC,Sub-Saharan Africa
-DJI,DJ,Djibouti,Africa,1,2,0,1002197,LMC,Sub-Saharan Africa
-ERI,ER,Eritrea,Africa,1,2,0,0,LIC,Sub-Saharan Africa
-ETH,ET,Ethiopia,Africa,1,2,0,117876226,LIC,Sub-Saharan Africa
-GAB,GA,Gabon,Africa,1,2,0,2278829,UMC,Sub-Saharan Africa
-GHA,GH,Ghana,Africa,2,2,0,31732128,LMC,Sub-Saharan Africa
-GIN,GN,Guinea,Africa,1,2,0,13497237,LIC,Sub-Saharan Africa
-GMB,GM,Gambia (the),Africa,1,2,0,2486937,LIC,Sub-Saharan Africa
-GNB,GW,Guinea-Bissau,Africa,1,2,0,2015490,LIC,Sub-Saharan Africa
-GNQ,GQ,Equatorial Guinea,Africa,1,2,0,1449891,UMC,Sub-Saharan Africa
-KEN,KE,Kenya,Africa,1,2,0,54985702,LMC,Sub-Saharan Africa
-LBR,LR,Liberia,Africa,1,2,0,5180208,LIC,Sub-Saharan Africa
-LSO,LS,Lesotho,Africa,1,1,0,2159067,LMC,Sub-Saharan Africa
-MDG,MG,Madagascar,Africa,1,2,0,28427333,LIC,Sub-Saharan Africa
-MLI,ML,Mali,Africa,1,2,0,20855724,LIC,Sub-Saharan Africa
-MOZ,MZ,Mozambique,Africa,1,2,0,32163045,LIC,Sub-Saharan Africa
-MRT,MR,Mauritania,Africa,1,1,0,4775110,LMC,Sub-Saharan Africa
-MUS,MU,Mauritius,Africa,1,1,0,1266060,HIC,Sub-Saharan Africa
-MWI,MW,Malawi,Africa,1,2,0,19647681,LIC,Sub-Saharan Africa
-MYT,YT,Mayotte,Africa,1,2,1,0,-,Sub-Saharan Africa
-NAM,NA,Namibia,Africa,1,2,0,2587344,UMC,Sub-Saharan Africa
-NER,NE,Niger (the),Africa,1,2,0,25130810,LIC,Sub-Saharan Africa
-NGA,NG,Nigeria,Africa,1,2,0,211400704,LMC,Sub-Saharan Africa
-REU,RE,Réunion,Africa,1,1,1,0,-,Sub-Saharan Africa
-RWA,RW,Rwanda,Africa,1,2,0,13276517,LIC,Sub-Saharan Africa
-SDN,SD,Sudan (the),Africa,1,2,0,44909351,LIC,Sub-Saharan Africa
-SEN,SN,Senegal,Africa,1,2,0,17196308,LMC,Sub-Saharan Africa
-SHN,SH,"Saint Helena, Ascension and Tristan da Cunha",Africa,1,1,1,0,-,Sub-Saharan Africa
-SLE,SL,Sierra Leone,Africa,1,2,0,8141343,LIC,Sub-Saharan Africa
-SOM,SO,Somalia,Africa,1,2,0,16359500,LIC,Sub-Saharan Africa
-SSD,SS,South Sudan,Africa,1,1,0,11381377,LIC,Sub-Saharan Africa
-STP,ST,Sao Tome and Principe,Africa,1,1,0,223364,LMC,Sub-Saharan Africa
-SWZ,SZ,Eswatini,Africa,1,1,0,1172369,LMC,Sub-Saharan Africa
-SYC,SC,Seychelles,Africa,1,1,0,99202,HIC,Sub-Saharan Africa
-TCD,TD,Chad,Africa,1,2,0,16914985,LIC,Sub-Saharan Africa
-TGO,TG,Togo,Africa,1,2,0,8478242,LIC,Sub-Saharan Africa
-TZA,TZ,Tanzania,Africa,1,2,0,61498438,LMC,Sub-Saharan Africa
-UGA,UG,Uganda,Africa,1,2,0,47123533,LIC,Sub-Saharan Africa
-ZAF,ZA,South Africa,Africa,1,2,0,60041996,UMC,Sub-Saharan Africa
-ZMB,ZM,Zambia,Africa,2,2,0,18920657,LMC,Sub-Saharan Africa
-ZWE,ZW,Zimbabwe,Africa,2,2,0,15092171,LMC,Sub-Saharan Africa
-ALA,AX,Åland Islands,Europe,2,2,1,0,-,Western Europe
-ALB,AL,Albania,Europe,2,2,0,2811666,UMC,Western Europe
-AND,AD,Andorra,Europe,1,1,0,77354,HIC,Western Europe
-AUT,AT,Austria,Europe,1,1,0,8956279,HIC,Western Europe
-BEL,BE,Belgium,Europe,2,2,0,11587882,HIC,Western Europe
-BGR,BG,Bulgaria,Europe,1,2,0,6899125,UMC,Western Europe
-BIH,BA,Bosnia and Herzegovina,Europe,2,2,0,3263459,UMC,Western Europe
-CHE,CH,Switzerland,Europe,1,2,0,8697723,HIC,Western Europe
-CYP,CZ,Cyprus,Europe,1,1,0,1215588,HIC,Western Europe
-CZE,CI,Czechia,Europe,1,2,0,10703446,HIC,Western Europe
-DEU,DE,Germany,Europe,1,2,0,83129285,HIC,Western Europe
-DNK,DK,Denmark,Europe,1,2,0,5856733,HIC,Western Europe
-ESP,ES,Spain,Europe,2,2,0,47326687,HIC,Western Europe
-EST,EE,Estonia,Europe,1,2,0,1329254,HIC,Western Europe
-FIN,FI,Finland,Europe,1,2,0,5541696,HIC,Western Europe
-FRA,FR,France,Europe,2,2,0,67499343,HIC,Western Europe
-FRO,FO,Faroe Islands (the),Europe,1,1,0,49053,HIC,Western Europe
-GBR,GB,United Kingdom,Europe,2,2,0,67326569,HIC,Western Europe
-GGY,GG,Guernsey,Europe,1,1,1,0,-,Western Europe
-GIB,GI,Gibraltar,Europe,0,0,1,33691,HIC,Western Europe
-GRC,GR,Greece,Europe,1,2,0,10664568,HIC,Western Europe
-HRV,CU,Croatia,Europe,1,1,0,3899000,HIC,Western Europe
-HUN,HU,Hungary,Europe,1,2,0,9709886,HIC,Western Europe
-IMN,IM,Isle of Man,Europe,1,1,1,85410,HIC,Western Europe
-IRL,IE,Ireland,Europe,1,1,0,5028230,HIC,Western Europe
-ISL,IS,Iceland,Europe,1,2,0,372295,HIC,Western Europe
-ITA,IT,Italy,Europe,1,2,0,59066225,HIC,Western Europe
-JEY,JE,Jersey,Europe,1,1,1,0,-,Western Europe
-LIE,LI,Liechtenstein,Europe,1,1,0,38254,HIC,Western Europe
-LTU,LT,Lithuania,Europe,1,2,0,2795321,HIC,Western Europe
-LUX,LU,Luxembourg,Europe,1,1,0,639070,HIC,Western Europe
-LVA,LV,Latvia,Europe,1,2,0,1883162,HIC,Western Europe
-MCO,MC,Monaco,Europe,1,0,1,39520,HIC,Western Europe
-MDA,MD,Moldova (the Republic of),Europe,1,1,0,2573928,LMC,Western Europe
-MKD,MK,Republic of North Macedonia,Europe,1,1,0,2065092,UMC,Western Europe
-MLT,MT,Malta,Europe,1,2,0,516869,HIC,Western Europe
-MNE,ME,Montenegro,Europe,1,1,0,620173,UMC,Western Europe
-NLD,NL,Netherlands (the),Europe,1,2,0,17533405,HIC,Western Europe
-NOR,NO,Norway,Europe,1,2,0,5408320,HIC,Western Europe
-POL,PL,Poland,Europe,1,2,0,37781024,HIC,Western Europe
-PRT,PT,Portugal,Europe,1,2,0,10299423,HIC,Western Europe
-ROU,RO,Romania,Europe,1,2,0,19115146,HIC,Western Europe
-SJM,SJ,Svalbard and Jan Mayen,Europe,1,1,1,0,-,Western Europe
-SMR,SM,San Marino,Europe,1,1,0,34010,HIC,Western Europe
-SRB,RS,Serbia,Europe,1,2,0,6844078,UMC,Western Europe
-SVK,SK,Slovakia,Europe,1,2,0,5447247,HIC,Western Europe
-SVN,SI,Slovenia,Europe,1,2,0,2107007,HIC,Western Europe
-SWE,SE,Sweden,Europe,1,2,0,10415811,HIC,Western Europe
-VAT,VA,Holy See (the),Europe,1,1,1,0,-,Western Europe
-XKO,,Kosovo,,0,0,1,0,-,Western Europe
+iso3,iso2,country,continent,gid_region,lowest,Exclude, Population ,income_group,flood_region
+ABW,AW,Aruba,North America,0,0,1,"107,195",HIC,South America
+AFG,AF,Afghanistan,Asia,2,2,0,"39,835,428",LIC,South Asia
+AGO,AO,Angola,Africa,2,2,0,"33,933,611",LMC,Sub-Saharan Africa
+AIA,AI,Anguilla,North America,0,0,1, -   ,-,Central America & Caribbean
+ALA,AX,Åland Islands,Europe,2,2,1, -   ,-,Western Europe
+ALB,AL,Albania,Europe,2,2,0,"2,811,666",UMC,Western Europe
+AND,AD,Andorra,Europe,1,1,1,"77,354",HIC,Western Europe
+ARE,AE,United Arab Emirates (the),Asia,1,2,0,"9,991,083",HIC,Middle East & North Africa
+ARG,AR,Argentina,South America,2,2,0,"45,808,747",UMC,South America
+ARM,AM,Armenia,Asia,1,1,0,"2,968,128",UMC,Rest of FSU
+ASM,AS,American Samoa,Oceania,1,1,1,"55,103",UMC,Oceania
+ATA,AQ,Antarctica,Antarctica,2,2,1, -   ,-,Antarctica
+ATF,TF,French Southern Territories (the),Antarctica,1,1,1, -   ,-,Antarctica
+ATG,AG,Antigua and Barbuda,North America,1,1,1,"98,728",HIC,Central America & Caribbean
+AUS,AU,Australia,Oceania,2,2,0,"25,739,256",HIC,Oceania
+AUT,AT,Austria,Europe,1,1,0,"8,956,279",HIC,Western Europe
+AZE,AZ,Azerbaijan,Asia,1,1,0,"10,145,212",UMC,Rest of FSU
+BDI,BI,Burundi,Africa,1,2,0,"12,255,429",LIC,Sub-Saharan Africa
+BEL,BE,Belgium,Europe,2,2,0,"11,587,882",HIC,Western Europe
+BEN,BJ,Benin,Africa,1,1,0,"12,451,031",LMC,Sub-Saharan Africa
+BES,BQ,"Bonaire, Sint Eustatius and Saba",North America,1,1,1, -   ,-,Central America & Caribbean
+BFA,BF,Burkina Faso,Africa,1,2,0,"21,497,097",LIC,Sub-Saharan Africa
+BGD,BD,Bangladesh,Asia,2,2,0,"166,303,494",LMC,South Asia
+BGR,BG,Bulgaria,Europe,1,2,0,"6,899,125",UMC,Western Europe
+BHR,BH,Bahrain,Asia,1,1,0,"1,748,295",HIC,Middle East & North Africa
+BHS,BS,Bahamas (the),North America,1,1,1,"396,914",HIC,Central America & Caribbean
+BIH,BA,Bosnia and Herzegovina,Europe,2,2,0,"3,263,459",UMC,Western Europe
+BLM,BL,Saint Barthélemy,North America,1,1,1, -   ,-,Central America & Caribbean
+BLR,BY,Belarus,Europe,2,2,0,"9,340,314",UMC,Rest of FSU
+BLZ,BZ,Belize,North America,1,1,1,"404,915",UMC,Central America & Caribbean
+BMU,BM,Bermuda,North America,1,1,1,"63,867",HIC,Central America & Caribbean
+BOL,BO,Bolivia (Plurinational State of),South America,2,2,0,"11,832,936",LMC,South America
+BRA,BR,Brazil,South America,1,2,0,"213,993,441",UMC,Brazil
+BRB,BB,Barbados,North America,1,1,1,"287,708",HIC,Central America & Caribbean
+BRN,BN,Brunei Darussalam,Asia,1,2,1,"441,532",HIC,Southeast Asia
+BTN,BT,Bhutan,Asia,2,2,1,"779,900",LMC,South Asia
+BVT,BV,Bouvet Island,Antarctica,2,2,1, -   ,-,Antarctica
+BWA,BW,Botswana,Africa,2,2,0,"2,397,240",UMC,Sub-Saharan Africa
+CAF,CF,Central African Republic (the),Africa,1,2,0,"4,919,987",LIC,Sub-Saharan Africa
+CAN,CA,Canada,North America,2,2,0,"38,246,108",HIC,North America
+CCK,CC,Cocos (Keeling) Islands (the),Asia,1,1,1, -   ,-,Asia
+CHE,CH,Switzerland,Europe,1,2,0,"8,697,723",HIC,Western Europe
+CHL,CL,Chile,South America,1,2,0,"19,212,362",HIC,South America
+CHN,CN,China,Asia,2,2,0,"1,412,360,000",UMC,China
+CIV,HR,Côte d'Ivoire,Africa,1,2,0,"27,053,629",LMC,Sub-Saharan Africa
+CMR,CM,Cameroon,Africa,1,2,0,"27,224,262",LMC,Sub-Saharan Africa
+COD,CD,Congo (the Democratic Republic of the),Africa,1,2,0,"92,377,986",LIC,Sub-Saharan Africa
+COG,CG,Congo (the),Africa,1,2,0,"5,657,017",LMC,Sub-Saharan Africa
+COK,CK,Cook Islands (the),Oceania,0,0,1, -   ,-,Oceania
+COL,CO,Colombia,South America,1,2,0,"51,265,841",UMC,South America
+COM,KM,Comoros (the),Africa,0,0,1,"888,456",LMC,Sub-Saharan Africa
+CPV,CV,Cabo Verde,Africa,1,1,1,"561,901",LMC,Sub-Saharan Africa
+CRI,CR,Costa Rica,North America,1,2,0,"5,139,053",UMC,Central America & Caribbean
+CUB,CW,Cuba,North America,1,2,0,"11,317,498",UMC,Central America & Caribbean
+CUW,CY,Curaçao,North America,0,0,1,"152,369",HIC,Central America & Caribbean
+CXR,CX,Christmas Island,Asia,1,1,1, -   ,-,Asia
+CYM,KY,Cayman Islands (the),North America,1,1,1,"66,498",HIC,Central America & Caribbean
+CYP,CZ,Cyprus,Europe,1,1,0,"1,215,588",HIC,Western Europe
+CZE,CI,Czechia,Europe,1,2,0,"10,703,446",HIC,Western Europe
+DEU,DE,Germany,Europe,1,2,0,"83,129,285",HIC,Western Europe
+DJI,DJ,Djibouti,Africa,1,2,0,"1,002,197",LMC,Sub-Saharan Africa
+DMA,DM,Dominica,North America,1,1,1,"72,172",UMC,Central America & Caribbean
+DNK,DK,Denmark,Europe,1,2,0,"5,856,733",HIC,Western Europe
+DOM,DO,Dominican Republic (the),North America,1,2,0,"10,953,714",UMC,Central America & Caribbean
+DZA,DZ,Algeria,Africa,2,2,0,"44,616,626",LMC,Middle East & North Africa
+ECU,EC,Ecuador,South America,1,2,0,"17,888,474",UMC,South America
+EGY,EG,Egypt,Africa,1,2,0,"104,258,327",LMC,Middle East & North Africa
+ERI,ER,Eritrea,Africa,1,2,1, -   ,LIC,Sub-Saharan Africa
+ESH,EH,Western Sahara,Africa,1,1,1, -   ,-,Middle East & North Africa
+ESP,ES,Spain,Europe,2,2,0,"47,326,687",HIC,Western Europe
+EST,EE,Estonia,Europe,1,2,0,"1,329,254",HIC,Western Europe
+ETH,ET,Ethiopia,Africa,1,2,0,"117,876,226",LIC,Sub-Saharan Africa
+FIN,FI,Finland,Europe,1,2,0,"5,541,696",HIC,Western Europe
+FJI,FJ,Fiji,Oceania,1,1,1,"902,899",UMC,Oceania
+FLK,FK,Falkland Islands (the) [Malvinas],South America,0,0,1, -   ,-,South America
+FRA,FR,France,Europe,2,2,0,"67,499,343",HIC,Western Europe
+FRO,FO,Faroe Islands (the),Europe,1,1,1,"49,053",HIC,Western Europe
+FSM,FM,Micronesia (Federated States of),Oceania,1,1,1,"116,255",LMC,Oceania
+GAB,GA,Gabon,Africa,1,2,0,"2,278,829",UMC,Sub-Saharan Africa
+GBR,GB,United Kingdom,Europe,2,2,0,"67,326,569",HIC,Western Europe
+GEO,GE,Georgia,Asia,1,2,0,"3,708,610",UMC,Rest of FSU
+GGY,GG,Guernsey,Europe,1,1,1, -   ,-,Western Europe
+GHA,GH,Ghana,Africa,2,2,0,"31,732,128",LMC,Sub-Saharan Africa
+GIB,GI,Gibraltar,Europe,0,0,1,"33,691",HIC,Western Europe
+GIN,GN,Guinea,Africa,1,2,0,"13,497,237",LIC,Sub-Saharan Africa
+GLP,GP,Guadeloupe,North America,1,1,1, -   ,-,Central America & Caribbean
+GMB,GM,Gambia (the),Africa,1,2,0,"2,486,937",LIC,Sub-Saharan Africa
+GNB,GW,Guinea-Bissau,Africa,1,2,0,"2,015,490",LIC,Sub-Saharan Africa
+GNQ,GQ,Equatorial Guinea,Africa,1,2,0,"1,449,891",UMC,Sub-Saharan Africa
+GRC,GR,Greece,Europe,1,2,0,"10,664,568",HIC,Western Europe
+GRD,GD,Grenada,North America,1,1,1,"113,015",UMC,Central America & Caribbean
+GRL,GL,Greenland,North America,1,1,1,"56,653",HIC,North America
+GTM,GT,Guatemala,North America,1,2,0,"17,109,746",UMC,Central America & Caribbean
+GUF,GF,French Guiana,South America,1,2,1, -   ,-,South America
+GUM,GU,Guam,Oceania,1,1,1,"170,184",HIC,Oceania
+GUY,GY,Guyana,South America,1,2,1,"790,329",UMC,South America
+HKG,HK,Hong Kong,Asia,1,1,0,"7,413,100",HIC,China
+HMD,HM,Heard Island and McDonald Islands,Antarctica,1,1,1, -   ,-,Antarctica
+HND,HN,Honduras,North America,1,2,0,"10,062,994",LMC,Central America & Caribbean
+HRV,CU,Croatia,Europe,1,1,0,"3,899,000",HIC,Western Europe
+HTI,HT,Haiti,North America,1,2,0,"11,541,683",LIC,Central America & Caribbean
+HUN,HU,Hungary,Europe,1,2,0,"9,709,886",HIC,Western Europe
+IDN,ID,Indonesia,Asia,1,2,0,"276,361,788",UMC,Southeast Asia
+IMN,IM,Isle of Man,Europe,1,1,1,"85,410",HIC,Western Europe
+IND,IN,India,Asia,2,2,0,"1,393,409,033",LMC,South Asia
+IOT,IO,British Indian Ocean Territory (the),Asia,1,2,1, -   ,-,Asia
+IRL,IE,Ireland,Europe,1,1,0,"5,028,230",HIC,Western Europe
+IRN,IR,Iran (Islamic Republic of),Asia,1,2,0,"85,028,760",UMC,South Asia
+IRQ,IQ,Iraq,Asia,1,2,0,"41,179,351",UMC,Middle East & North Africa
+ISL,IS,Iceland,Europe,1,2,1,"372,295",HIC,Western Europe
+ISR,IL,Israel,Asia,1,1,0,"9,364,000",HIC,Middle East & North Africa
+ITA,IT,Italy,Europe,1,2,0,"59,066,225",HIC,Western Europe
+JAM,JM,Jamaica,North America,1,1,0,"2,973,462",UMC,Central America & Caribbean
+JEY,JE,Jersey,Europe,1,1,1, -   ,-,Western Europe
+JOR,JO,Jordan,Asia,1,2,0,"10,269,022",UMC,Middle East & North Africa
+JPN,JP,Japan,Asia,1,2,0,"125,681,593",HIC,Japan & Korea
+KAZ,KZ,Kazakhstan,Asia,1,2,0,"19,002,586",UMC,Rest of FSU
+KEN,KE,Kenya,Africa,1,2,0,"54,985,702",LMC,Sub-Saharan Africa
+KGZ,KG,Kyrgyzstan,Asia,1,2,0,"6,694,200",LMC,Rest of FSU
+KHM,KH,Cambodia,Asia,1,2,0,"16,946,446",LMC,Southeast Asia
+KIR,KI,Kiribati,Oceania,0,0,1,"121,388",LMC,Oceania
+KNA,KN,Saint Kitts and Nevis,North America,1,1,1,"53,546",HIC,Central America & Caribbean
+KOR,KR,Korea (the Republic of),Asia,1,2,0,"51,744,876",HIC,Japan & Korea
+KWT,KW,Kuwait,Asia,1,1,0,"4,328,553",HIC,Middle East & North Africa
+LAO,LA,Lao People's Democratic Republic (the),Asia,1,2,0,"7,379,358",LMC,Southeast Asia
+LBN,LB,Lebanon,Asia,1,2,0,"6,769,151",UMC,Middle East & North Africa
+LBR,LR,Liberia,Africa,1,2,0,"5,180,208",LIC,Sub-Saharan Africa
+LBY,LY,Libya,Africa,1,1,0,"6,958,538",UMC,Middle East & North Africa
+LCA,LC,Saint Lucia,North America,1,1,1,"184,401",UMC,Central America & Caribbean
+LIE,LI,Liechtenstein,Europe,1,1,1,"38,254",HIC,Western Europe
+LKA,LK,Sri Lanka,Asia,1,2,0,"22,156,000",LMC,South Asia
+LSO,LS,Lesotho,Africa,1,1,0,"2,159,067",LMC,Sub-Saharan Africa
+LTU,LT,Lithuania,Europe,1,2,0,"2,795,321",HIC,Western Europe
+LUX,LU,Luxembourg,Europe,1,1,1,"639,070",HIC,Western Europe
+LVA,LV,Latvia,Europe,1,2,0,"1,883,162",HIC,Western Europe
+MAC,MO,Macao,Asia,1,1,1,"658,391",HIC,China
+MAF,MF,Saint Martin (French part),North America,1,1,1,"39,239",HIC,Central America & Caribbean
+MAR,MA,Morocco,Africa,1,2,0,"37,344,787",LMC,Middle East & North Africa
+MCO,MC,Monaco,Europe,1,0,1,"39,520",HIC,Western Europe
+MDA,MD,Moldova (the Republic of),Europe,1,1,0,"2,573,928",LMC,Western Europe
+MDG,MG,Madagascar,Africa,1,2,0,"28,427,333",LIC,Sub-Saharan Africa
+MDV,MV,Maldives,Asia,0,0,1,"543,620",UMC,South Asia
+MEX,MX,Mexico,North America,1,2,0,"130,262,220",UMC,Central America & Caribbean
+MHL,MH,Marshall Islands (the),Oceania,1,1,1,"59,618",UMC,Oceania
+MKD,MK,Republic of North Macedonia,Europe,1,1,0,"2,065,092",UMC,Western Europe
+MLI,ML,Mali,Africa,1,2,0,"20,855,724",LIC,Sub-Saharan Africa
+MLT,MT,Malta,Europe,1,2,1,"516,869",HIC,Western Europe
+MMR,MM,Myanmar,Asia,1,2,0,"54,806,014",LMC,Southeast Asia
+MNE,ME,Montenegro,Europe,1,1,1,"620,173",UMC,Western Europe
+MNG,MN,Mongolia,Asia,1,2,0,"3,329,282",LMC,China
+MNP,MP,Northern Mariana Islands (the),Oceania,1,1,1,"57,910",HIC,Oceania
+MOZ,MZ,Mozambique,Africa,1,2,0,"32,163,045",LIC,Sub-Saharan Africa
+MRT,MR,Mauritania,Africa,1,1,0,"4,775,110",LMC,Sub-Saharan Africa
+MSR,MS,Montserrat,North America,1,1,1, -   ,-,Central America & Caribbean
+MTQ,MQ,Martinique,North America,1,1,1, -   ,-,Central America & Caribbean
+MUS,MU,Mauritius,Africa,1,1,0,"1,266,060",HIC,Sub-Saharan Africa
+MWI,MW,Malawi,Africa,1,2,0,"19,647,681",LIC,Sub-Saharan Africa
+MYS,MY,Malaysia,Asia,1,2,0,"32,776,195",UMC,Southeast Asia
+MYT,YT,Mayotte,Africa,1,2,1, -   ,-,Sub-Saharan Africa
+NAM,NA,Namibia,Africa,1,2,0,"2,587,344",UMC,Sub-Saharan Africa
+NCL,NC,New Caledonia,Oceania,1,2,1,"272,620",HIC,Oceania
+NER,NE,Niger (the),Africa,1,2,0,"25,130,810",LIC,Sub-Saharan Africa
+NFK,NF,Norfolk Island,Oceania,1,1,1, -   ,-,Oceania
+NGA,NG,Nigeria,Africa,1,2,0,"211,400,704",LMC,Sub-Saharan Africa
+NIC,NI,Nicaragua,North America,1,2,0,"6,702,379",LMC,Central America & Caribbean
+NIU,NU,Niue,Oceania,0,0,1, -   ,-,Oceania
+NLD,NL,Netherlands (the),Europe,1,2,0,"17,533,405",HIC,Western Europe
+NOR,NO,Norway,Europe,1,2,0,"5,408,320",HIC,Western Europe
+NPL,NP,Nepal,Asia,1,2,0,"29,674,920",LMC,South Asia
+NRU,NR,Nauru,Oceania,1,1,1,"10,873",HIC,Oceania
+NZL,NZ,New Zealand,Oceania,1,2,0,"5,122,600",HIC,Oceania
+OMN,OM,Oman,Asia,1,2,0,"5,223,376",HIC,Middle East & North Africa
+PAK,PK,Pakistan,Asia,1,2,0,"225,199,929",LMC,South Asia
+PAN,PA,Panama,North America,1,2,0,"4,381,583",HIC,Central America & Caribbean
+PCN,PN,Pitcairn,Oceania,1,1,1, -   ,-,Oceania
+PER,PE,Peru,South America,1,2,0,"33,359,416",UMC,South America
+PHL,PH,Philippines (the),Asia,1,2,0,"111,046,910",LMC,Southeast Asia
+PLW,PW,Palau,Oceania,1,1,1,"18,174",HIC,Oceania
+PNG,PG,Papua New Guinea,Oceania,1,2,0,"9,119,005",LMC,Oceania
+POL,PL,Poland,Europe,1,2,0,"37,781,024",HIC,Western Europe
+PRI,PR,Puerto Rico,North America,1,1,0,"3,263,584",HIC,Central America & Caribbean
+PRK,KP,Korea (the Democratic People's Republic of),Asia,1,2,1,"25,887,045",LIC,Japan & Korea
+PRT,PT,Portugal,Europe,1,2,0,"10,299,423",HIC,Western Europe
+PRY,PY,Paraguay,South America,1,2,0,"7,219,641",UMC,South America
+PSE,PS,"Palestine, State of",Asia,1,1,0,"4,922,749",LMC,Middle East & North Africa
+PYF,PF,French Polynesia,Oceania,1,1,1,"282,534",HIC,Oceania
+QAT,QA,Qatar,Asia,1,1,0,"2,930,524",HIC,Middle East & North Africa
+REU,RE,Réunion,Africa,1,1,1, -   ,-,Sub-Saharan Africa
+ROU,RO,Romania,Europe,1,2,0,"19,115,146",HIC,Western Europe
+RUS,RU,Russian Federation (the),Asia,1,2,0,"143,446,060",UMC,Russia
+RWA,RW,Rwanda,Africa,1,2,0,"13,276,517",LIC,Sub-Saharan Africa
+SAU,SA,Saudi Arabia,Asia,1,1,0,"35,340,680",HIC,Middle East & North Africa
+SDN,SD,Sudan (the),Africa,1,2,0,"44,909,351",LIC,Sub-Saharan Africa
+SEN,SN,Senegal,Africa,1,2,0,"17,196,308",LMC,Sub-Saharan Africa
+SGP,SG,Singapore,Asia,1,1,0,"5,453,566",HIC,Southeast Asia
+SGS,GS,South Georgia and the South Sandwich Islands,Antarctica,1,1,1, -   ,-,Antarctica
+SHN,SH,"Saint Helena, Ascension and Tristan da Cunha",Africa,1,1,1, -   ,-,Sub-Saharan Africa
+SJM,SJ,Svalbard and Jan Mayen,Europe,1,1,1, -   ,-,Western Europe
+SLB,SB,Solomon Islands,Oceania,1,1,1,"703,995",LMC,Oceania
+SLE,SL,Sierra Leone,Africa,1,2,0,"8,141,343",LIC,Sub-Saharan Africa
+SLV,SV,El Salvador,North America,1,2,0,"6,518,500",LMC,Central America & Caribbean
+SMR,SM,San Marino,Europe,1,1,1,"34,010",HIC,Western Europe
+SOM,SO,Somalia,Africa,1,2,0,"16,359,500",LIC,Sub-Saharan Africa
+SPM,PM,Saint Pierre and Miquelon,North America,1,1,1, -   ,-,Central America & Caribbean
+SRB,RS,Serbia,Europe,1,2,0,"6,844,078",UMC,Western Europe
+SSD,SS,South Sudan,Africa,1,1,0,"11,381,377",LIC,Sub-Saharan Africa
+STP,ST,Sao Tome and Principe,Africa,1,1,1,"223,364",LMC,Sub-Saharan Africa
+SUR,SR,Suriname,South America,1,2,1,"591,798",UMC,South America
+SVK,SK,Slovakia,Europe,1,2,0,"5,447,247",HIC,Western Europe
+SVN,SI,Slovenia,Europe,1,2,0,"2,107,007",HIC,Western Europe
+SWE,SE,Sweden,Europe,1,2,0,"10,415,811",HIC,Western Europe
+SWZ,SZ,Eswatini,Africa,1,1,0,"1,172,369",LMC,Sub-Saharan Africa
+SXM,SX,Sint Maarten (Dutch part),North America,1,1,1,"42,846",HIC,Central America & Caribbean
+SYC,SC,Seychelles,Africa,1,1,1,"99,202",HIC,Sub-Saharan Africa
+SYR,SY,Syrian Arab Republic,Asia,1,2,0,"18,275,704",LIC,Middle East & North Africa
+TCA,TC,Turks and Caicos Islands (the),North America,1,1,1,"39,226",HIC,Central America & Caribbean
+TCD,TD,Chad,Africa,1,2,0,"16,914,985",LIC,Sub-Saharan Africa
+TGO,TG,Togo,Africa,1,2,0,"8,478,242",LIC,Sub-Saharan Africa
+THA,TH,Thailand,Asia,1,2,0,"69,950,844",UMC,Southeast Asia
+TJK,TJ,Tajikistan,Asia,1,2,0,"9,749,625",LIC,Rest of FSU
+TKL,TK,Tokelau,Oceania,1,1,1, -   ,-,Oceania
+TKM,TM,Turkmenistan,Asia,1,1,0,"6,117,933",UMC,Rest of FSU
+TLS,TL,Timor-Leste,Asia,1,2,0,"1,343,875",LMC,Southeast Asia
+TON,TO,Tonga,Oceania,1,1,1,"106,759",UMC,Oceania
+TTO,TT,Trinidad and Tobago,North America,1,1,0,"1,403,374",HIC,Central America & Caribbean
+TUN,TN,Tunisia,Africa,1,2,0,"11,935,764",LMC,Middle East & North Africa
+TUR,TR,Turkey,Europe,1,2,0,"85,042,736",UMC,Middle East & North Africa
+TUV,TV,Tuvalu,Oceania,1,1,1,"11,925",UMC,Oceania
+TWN,TW,Taiwan (Province of China),Asia,1,2,1, -   ,-,China
+TZA,TZ,Tanzania,Africa,1,2,0,"61,498,438",LMC,Sub-Saharan Africa
+UGA,UG,Uganda,Africa,1,2,0,"47,123,533",LIC,Sub-Saharan Africa
+UKR,UA,Ukraine,Europe,1,2,0,"43,814,581",LMC,Rest of FSU
+UMI,UM,United States Minor Outlying Islands (the),Oceania,1,1,1, -   ,-,Oceania
+URY,UY,Uruguay,South America,1,2,0,"3,485,152",HIC,South America
+USA,US,United States of America (the),North America,2,2,0,"331,893,745",HIC,North America
+UZB,UZ,Uzbekistan,Asia,1,2,0,"34,915,100",LMC,Rest of FSU
+VAT,VA,Holy See (the),Europe,1,1,1, -   ,-,Western Europe
+VCT,VC,Saint Vincent and the Grenadines,North America,1,1,1,"111,269",UMC,Central America & Caribbean
+VEN,VE,Venezuela (Bolivarian Republic of),South America,1,2,0,"28,704,947",UMC,South America
+VGB,VG,Virgin Islands (British),North America,1,1,1,"30,423",HIC,Central America & Caribbean
+VIR,VI,Virgin Islands (U.S.),North America,1,1,1,"105,870",HIC,Central America & Caribbean
+VNM,VN,Viet Nam,Asia,1,2,0,"98,168,829",LMC,Southeast Asia
+VUT,VU,Vanuatu,Oceania,1,1,1,"314,464",LMC,Oceania
+WLF,WF,Wallis and Futuna,Oceania,1,1,1, -   ,-,Oceania
+WSM,WS,Samoa,Oceania,1,1,1,"200,144",UMC,Oceania
+XKO,,Kosovo,,0,0,1, -   ,-,Western Europe
+YEM,YE,Yemen,Asia,2,2,0,"30,490,639",LIC,Middle East & North Africa
+ZAF,ZA,South Africa,Africa,1,2,0,"60,041,996",UMC,Sub-Saharan Africa
+ZMB,ZM,Zambia,Africa,2,2,0,"18,920,657",LMC,Sub-Saharan Africa
+ZWE,ZW,Zimbabwe,Africa,2,2,0,"15,092,171",LMC,Sub-Saharan Africa
