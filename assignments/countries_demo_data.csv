@@ -1,0 +1,7 @@
+iso3,iso2,country,continent,Population,income_group,flood_region
+CHN,CN,China,Asia,1412360000,UMC,China
+IND,IN,India,Asia,1393409033,LMC,South Asia
+USA,US,United States of America (the),North America,331893745,HIC,North America
+IDN,ID,Indonesia,Asia,276361788,UMC,Southeast Asia
+PAK,PK,Pakistan,Asia,225199929,LMC,South Asia
+BRA,BR,Brazil,South America,213993441,UMC,Brazil
